@@ -1,0 +1,15 @@
+# NorthStar Logistics Database Project
+
+## Technologies Used
+- Python
+- SQL in R
+- R Analytics
+- MongoDB
+
+## Google Colab Notebook
+[Open in Colab](YOUR_COLAB_LINK)
+
+## Repository Structure
+- NorthStar_Logistics_Project.ipynb
+- dataset/
+- README.md
